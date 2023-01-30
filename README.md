@@ -83,13 +83,7 @@ Skilled Software Developer with Proficiency in DSA, Python/Django and React JsðŸ
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sourav1-2026&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
