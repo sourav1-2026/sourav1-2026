@@ -5,7 +5,7 @@
 Skilled Software Developer with Proficiency in DSA, Python/Django and React Js🚀</div>  
   
 
-- 🔭 I’m currently working on Verizon  
+- 🔭 I’m currently working in Verizon  
   
 
 - 🌱 I’m currently learning Data Science  
