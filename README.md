@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, all Sourav here</h1>
+<h1 align="center">Hi 👋, all Sourav here</h1>
 <h3 align="center">Skilled Software Developer with Proficiency in DSA, Python/Django and React JS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav1-2026&label=Profile%20views&color=0e75b6&style=flat" alt="sourav1-2026" /> </p>
