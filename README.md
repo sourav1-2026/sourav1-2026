@@ -2,7 +2,7 @@
   
 
 # <div align="center">                                 Hi everyone , Sourav here,
-Skilled Software Developer with Proficiency in DSA, Python/Django and React Js🚀</div>  
+Skilled Software Developer with Proficiency in DSA, Python/Django, Django Rest Framework and React Js🚀</div>  
   
 
 - 🔭 I’m currently working in Verizon  
