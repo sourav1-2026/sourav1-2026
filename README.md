@@ -2,7 +2,7 @@
   
 
 # <div align="center">                                 Hi everyone , Sourav here,
-Skilled Software Developer with Proficiency in DSA, Python/Django, Django Rest Framework and React Js🚀</div>  
+Skilled Software Developer with Proficiency in DSA, Python, Spring Boot and React Js🚀</div>  
   
 
 - 🔭 I’m currently working in Verizon  
@@ -11,7 +11,7 @@ Skilled Software Developer with Proficiency in DSA, Python/Django, Django Rest F
 - 🌱 I’m currently learning Data Science  
   
 
-- ❓ Ask me about anything related to Python and  Django  
+- Love to hear your thought and plans  
   
 
 <br/>  
